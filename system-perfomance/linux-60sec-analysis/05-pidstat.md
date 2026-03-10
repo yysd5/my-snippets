@@ -1,5 +1,5 @@
 ---
-Title: pidstat 1
+Title: 05-pidstat
 Description: |
   プロセスごとのCPUの使用状況。予想外にCPUを消費しているプロセスを明らかにするとともに、
   各プロセスのユーザー/システムCPU時間を見る。
@@ -46,4 +46,3 @@ Tags:
 ```bash
 pidstat 1
 ```
-

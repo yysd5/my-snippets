@@ -1,5 +1,5 @@
 ---
-Title: vmstat -SM 1
+Title: o3-vmstat
 Description: |
   ランキューの長さ、スワップ、システム全体のCPU使用率などのシステムレベルでの統計量の確認。
 
@@ -50,4 +50,3 @@ Tags:
 ```bash
 vmstat -SM 1
 ```
-

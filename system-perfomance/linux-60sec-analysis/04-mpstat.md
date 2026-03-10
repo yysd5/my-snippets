@@ -1,5 +1,5 @@
 ---
-Title: mpstat -P ALL 1
+Title: 04-mpstat
 Description: |
   CPU間のバランス。ひとつのCPUだけがビジー状態ならスレッドのスケーリングに問題がある。
 
@@ -47,4 +47,3 @@ Tags:
 ```bash
 mpstat -P ALL 1
 ```
-

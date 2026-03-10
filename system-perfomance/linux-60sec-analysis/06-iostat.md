@@ -1,5 +1,5 @@
 ---
-Title: iostat -sxz 1
+Title: 06-iostat
 Description: |
   ディスクのI/O統計: IOPS、スループット、平均街自家ん、ビジー状態の割合などの確認。
 
@@ -50,4 +50,3 @@ Tags:
 ```bash
 iostat -sxz 1
 ```
-

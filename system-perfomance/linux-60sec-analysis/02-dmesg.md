@@ -1,5 +1,5 @@
 ---
-Title: dmesg -T | tail
+Title: 02-dmesg
 Description: |
   OOM(メモリ不足)エラーなどのカーネルエラーの確認。
 
@@ -33,4 +33,3 @@ Tags:
 ```bash
 dmesg -T | tail
 ```
-

@@ -1,5 +1,5 @@
 ---
-Title: sar -n TCP,ETCP 1
+Title: 08-sar-tcp
 Description: |
   TCP統計。接続のスピード、再送の確認。
 
@@ -42,4 +42,3 @@ Tags:
 ```bash
 sar -n TCP,ETCP 1
 ```
-

@@ -1,5 +1,5 @@
 ---
-Title: free -m
+Title: 07-free
 Description: |
   ファイルシステムキャッシュを含むメモリの使用状況の確認。
 
@@ -36,4 +36,3 @@ Tags:
 ```bash
 free -m
 ```
-

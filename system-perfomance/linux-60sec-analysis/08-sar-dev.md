@@ -1,5 +1,5 @@
 ---
-Title: sar -n DEV 1
+Title: 08-sar-dev
 Description: |
   ネットワークデバイスI/O、パケットとスループットの確認。
 
@@ -40,4 +40,3 @@ Tags:
 ```bash
 sar -n DEV 1
 ```
-
